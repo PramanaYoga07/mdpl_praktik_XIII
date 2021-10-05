@@ -1,0 +1,80 @@
+WATERFALL
+  Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasuk ke dalam classic life cycle (siklus hidup klasik),
+yang mana menekankan pada fase yang berurutan dan sistematis. Untuk model pengembangannya, dapat dianalogikan seperti air terjun,
+dimana setiap tahap dikerjakan secara berurutan mulai dari atas hingga ke bawah.
+
+TAHAPAN METODE WATERFALL
+1. Requirement
+Tahapan metode waterfall yang pertama adalah mempersiapkan dan menganalisa kebutuhan dari software yang akan dikerjakan.
+Informasi dan insight yang diperoleh dapat berupa dari hasil wawancara, survei, studi literatur, observasi, hingga diskusi.
+Biasanya di dalam sebuah perusahaan, tim analis akan menggali informasi sebanyak – banyaknya dari klien atau user yang menginginkan produk beserta dengan kebutuhan sistemnya.
+Selain itu, juga dapat mengetahui setiap batasan dari perangkat lunak yang akan dibuat.
+
+2. Design
+Tahap yang selanjutnya adalah pembuatan desain aplikasi sebelum masuk pada proses coding. Tujuan dari tahap ini,
+supaya mempunyai gambaran jelas mengenai tampilan dan antarmuka software yang kemudian akan dieksekusi oleh tim programmer.
+Untuk proses ini, akan berfokus pada pembangunan struktur data, arsitektur software, perancangan interface,
+hingga perancangan fungsi internal dan eksternal dari setiap algoritma prosedural. Tim yang mengerjakan tahap ini, biasanya lebih banyak menggunakan UI/UX Designer,
+atau orang yang memiliki kemampuan dalam bidang desain grafis atau Web Designer. 
+
+3. Implementation
+Tahapan metode waterfall yang berikutnya adalah implementasi kode program dengan menggunakan berbagai tools dan bahasa pemrograman sesuai dengan kebutuhan tim dan perusahaan.
+Jadi, pada tahap implementasi ini lebih berfokus pada hal teknis, dimana hasil dari desain perangkat lunak akan diterjemahkan ke dalam bahasa pemrograman
+melalui tim programmer atau developer.
+Di dalam tahap pengembangan, biasanya dibagi lagi menjadi 3 tim yang memiliki tugas yang berbeda. Pertama ada front end (untuk client side),
+backend (untuk server side), dan full stack (gabungan antara front end dan backend). Selain itu,
+pada tahap ini juga dilakukan pemeriksaan lebih dalam terkait dengan modul yang sudah dibuat, apakah berjalan dengan semestinya atau tidak.
+
+4. Integration & Testing
+Tahap yang keempat, masuk dalam proses integrasi dan pengujian sistem. Pada tahap ini, akan dilakukan penggabungan modul yang sudah dibuat pada tahap sebelumnya.
+Setelah proses integrasi sistem telah selesai, berikutnya masuk pada pengujian modul.
+Yang bertujuan untuk mengetahui apakah perangkat lunak sudah sesuai dengan desain, dan fungsionalitas dari aplikasi apakah berjalan dengan baik atau tidak.
+Jadi, dengan adanya tahap pengujian, maka dapat mencegah terjadinya kesalahan, bug, atau error pada program sebelum masuk pada tahap produksi.
+Orang yang bertanggung jawab untuk melakukan testing adalah QA (Quality Assurance) dan QC (Quality Control).
+
+5. Operation & Maintenance
+Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem,
+maka akan masuk pada tahap produk dan pemakaian perangkat lunak oleh pengguna (user). Untuk proses pemeliharaan,memungkinkan pengembang untuk melakukan perbaikan
+terhadap kesalahan yang ditemukan pada aplikasi setelah digunakan oleh user. Jadi, pada intinya model waterfall ini dalam proses pemakaiannya mengikuti prinsip dari air terjun.
+Dimana setiap pekerjaan akan dilakukan secara berurutan mulai dari atas hingga ke bawah.
+
+KELEBIHAN METODE WATERFALL
+Berikut ini merupakan beberapa kelebihan yang dimiliki oleh metode waterfall, antara lain:
+
+1. Workflow yang jelas
+Dengan menggunakan model SDLC jenis ini, mempunyai rangkaian alur kerja sistem yang jelas dan terukur. Masing – masing tim, memiliki tugas dan tanggung jawab
+sesuai dengan bidang keahliannya. Serta dapat menyelesaikan pekerjaan sesuai dengan alokasi waktu yang telah ditentukan sebelumnya.
+
+2. Hasil dokumentasi yang baik
+Waterfall merupakan pendekatan yang sangat metodis, dimana setiap informasi akan tercatat dengan baik dan terdistribusi kepada setiap anggota tim secara cepat dan akurat.
+Dengan adanya dokumen, maka pekerjaan dari setiap tim akan menjadi lebih mudah, serta mengikuti setiap arahan dari dokumen tersebut. 
+
+3. Dapat menghemat biaya
+Kelebihan yang selanjutnya tentu saja dari segi resource dan biaya yang dikeluarkan oleh suatu perusahaan dengan menggunakan model ini.
+Jadi, dalam hal ini klien tidak dapat mencampuri urusan dari tim pengembang aplikasi. Sehingga pengeluaran biaya menjadi lebih sedikit.
+Berbeda dengan metode Agile, yang mana klien dapat memberikan masukan dan feedback kepada tim developer terkait dengan perubahan atau penambahan beberapa fitur.
+Sehingga perusahaan akan mengeluarkan biaya yang lebih besar daripada Waterfall.
+
+4. Digunakan untuk pengembangan software berskala besar
+Metode ini dinilai sangat cocok untuk menjalankan pembuatan aplikasi berskala besar yang melibatkan banyak sumber daya manusia dan prosedur kerja yang kompleks.
+Akan tetapi, Model ini juga dapat digunakan untuk proyek berskala kecil dan menengah. Tentu saja disesuaikan dengan kondisi dan kebutuhan proyek yang diambil.
+
+KELEMAHAN METODE WATERFALL
+Berikut ini terdapat beberapa kelemahan dari metode waterfall, diantaranya adalah sebagai berikut:
+
+1. Membutuhkan tim yang solid
+Untuk menggunakan model SDLC ini, tentu saja membutuhkan dukungan dari setiap stakeholders yang ada. Setiap tim harus mempunyai kerja sama dan koordinasi yang baik.
+Dikarenakan, apabila salah satu tim tidak dapat menjalankan tugas dengan semestinya, maka akan sangat berpengaruh terhadap alur kerja tim yang lain. 
+
+2. Masih kurangnya fleksibilitas
+Semua tim dituntut untuk bekerja sesuai dengan arahan dan petunjuk yang telah ditetapkan di awal. Sehingga, klien tidak dapat mengeluarkan pendapat dan feedback
+kepada tim pengembang. Klien hanya dapat memberikan masukan pada tahap awal perancangan sistem perangkat lunak saja.
+
+3. Tidak dapat melihat gambaran sistem dengan jelas
+Dengan model waterfall, customer tidak dapat melihat gambaran sistem secara jelas. Berbeda dengan model agile yang dapat terlihat dengan baik
+meskipun masih dalam proses pengembangan. 
+
+4. Membutuhkan waktu yang lebih lama
+Proses pengerjaan dengan menggunakan waterfall terbilang cukup lama jika dibandingkan dengan model SDLC yang lain.
+Karena, tahapan pengerjaan aplikasi yang dilakukan satu per satu membuat waktu yang dibutuhkan menjadi lebih lama.
+Sebagai contoh, tim developer tidak akan bisa melakukan proses coding jika tim designer belum menampilkan tampilan desain dari aplikasi.
